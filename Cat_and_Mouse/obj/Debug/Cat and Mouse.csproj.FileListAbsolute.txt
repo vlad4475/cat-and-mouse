@@ -1,0 +1,6 @@
+C:\Users\vlad\Documents\Visual Studio 2013\Projects\Вареникова\Cat and Mouse\bin\Debug\Cat and Mouse.exe.config
+C:\Users\vlad\Documents\Visual Studio 2013\Projects\Вареникова\Cat and Mouse\obj\Debug\Cat and Mouse.csprojResolveAssemblyReference.cache
+C:\Users\vlad\Documents\Visual Studio 2013\Projects\Вареникова\Cat and Mouse\obj\Debug\CatandMouse.Form1.resources
+C:\Users\vlad\Documents\Visual Studio 2013\Projects\Вареникова\Cat and Mouse\obj\Debug\CatandMouse.Form2.resources
+C:\Users\vlad\Documents\Visual Studio 2013\Projects\Вареникова\Cat and Mouse\obj\Debug\Cat and Mouse.Properties.Resources.resources
+C:\Users\vlad\Documents\Visual Studio 2013\Projects\Вареникова\Cat and Mouse\obj\Debug\Cat and Mouse.csproj.GenerateResource.Cache
